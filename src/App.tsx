@@ -148,7 +148,7 @@ export default function App() {
             price="R$ 67"
             icon={Zap}
             highlight={true}
-            link="https://mpago.la/2RxV7iF"
+            link="https://checkout.infinitepay.io/vibebyte/7KzbQFou65"
             description="Melhor custo-benefício para pequenos negócios em crescimento."
             features={[
               "3 sites profissionais",
@@ -162,7 +162,7 @@ export default function App() {
             title="Plano Business"
             price="R$ 147"
             icon={Briefcase}
-            link="https://mpago.la/1BuYCtG"
+            link="https://checkout.infinitepay.io/vibebyte/1SzvyATtoD"
             description="Para quem quer criar vários sites ou é agência. Ganhe vendendo sites com IA."
             features={[
               "10 sites profissionais",
