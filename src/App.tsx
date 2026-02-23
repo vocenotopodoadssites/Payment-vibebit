@@ -132,7 +132,7 @@ export default function App() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 items-start">
           <PricingCard 
             title="Plano Start"
-            price="R$ 49"
+            price="R$ 47"
             icon={Globe}
             link="https://checkout.infinitepay.io/vibebyte/1BScshyVj"
             description="Ideal para quem deseja ter um site profissional em instantes."
