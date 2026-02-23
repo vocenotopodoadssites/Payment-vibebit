@@ -134,7 +134,7 @@ export default function App() {
             title="Plano Start"
             price="R$ 49"
             icon={Globe}
-            link="https://mpago.la/2im86kW"
+            link="https://checkout.infinitepay.io/vibebyte/1BScshyVj"
             description="Ideal para quem deseja ter um site profissional em instantes."
             features={[
               "1 site profissional",
